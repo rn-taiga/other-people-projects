@@ -2,7 +2,7 @@
 
 <b><i>This list presents the projects of other people, written in lisp, or relevant lisp programming language</i></b>
 
-<b>[ub-lisp](https://github.com/filonenko-mikhail/ub-lisp)</b>
+<p><b>[ub-lisp](https://github.com/filonenko-mikhail/ub-lisp)</b></p>
 Краткий курс по Коммон Лиспу.
 
 
