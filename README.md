@@ -1,6 +1,6 @@
 # Other People Projects
 
-<b><i>This list presents the projects of other people, written in lisp, or relevant lisp programming language</i></b>
+<b><i>This list presents the projects of other people, written in Lisp, or relating to Lisp programming language</i></b>
 
 <b>[ub-lisp](https://github.com/filonenko-mikhail/ub-lisp)</b><br>
 Translation of Uber Lisp article into russian.
