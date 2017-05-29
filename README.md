@@ -1,6 +1,10 @@
-# Other People Projects
+**Other People Projects**
+----------
 
-<b><i>This list presents the projects of other people, written in Lisp, or relating to Lisp programming language</i></b>
+*This list presents the projects of other people, written in Lisp, or relating to Lisp programming language*
+
+----------
+
 
 <b>[ub-lisp](https://github.com/filonenko-mikhail/ub-lisp)</b><br>
 Translation of Uber Lisp article into russian.
@@ -15,10 +19,11 @@ Roswell has now evolved into a full-stack environment for Common Lisp developmen
 <b>[shelly](https://github.com/fukamachi/shelly)</b><br>
 Shelly enables you to execute Common Lisp functions like a shell command. And it also can be used as a Make-like build-tool.
 Shelly has the following features:
-* Provides shell command-like interface for Common Lisp functions;
-* Dumps a Lisp core for fast execution;
-* Allows to define project specific commands (shlyfile);
-* Implementation independent.
+ - Provides shell command-like interface for Common Lisp functions;
+ - Dumps a Lisp core for fast execution;
+ - Allows to define projectspecific commands (shlyfile);
+ - Implementation independent.
+
     
     
 <b>[avesh](https://gitlab.com/ralt/avesh)</b><br>
@@ -28,5 +33,6 @@ Bash and zsh, although powerful, have fairly limited hackability. One thing I wa
 
 
 <b>[PIC](https://github.com/takagi/pic)</b><br>
-PIC Is a Compiler for 8-bit PIC micro controllers
+PIC Is a Compiler for 8-bit PIC micro controllers.
 A native compiler for 8-bit PIC micro controllers written in Common Lisp. The host language is a pretty small subset of ML-like language and the target language is 8-bit PIC micro controller assembly. Common Lisp is the compiler language.
+
