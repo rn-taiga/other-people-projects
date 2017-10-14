@@ -24,8 +24,7 @@ Shelly has the following features:
  - Allows to define projectspecific commands (shlyfile);
  - Implementation independent.
 
-    
-    
+
 <b>[avesh](https://gitlab.com/ralt/avesh)</b><br>
 A Very Extensible Shell.
 The goal of avesh is to be super extensible. The point is to be able to hack around the shell as much as we want.
@@ -36,3 +35,6 @@ Bash and zsh, although powerful, have fairly limited hackability. One thing I wa
 PIC Is a Compiler for 8-bit PIC micro controllers.
 A native compiler for 8-bit PIC micro controllers written in Common Lisp. The host language is a pretty small subset of ML-like language and the target language is 8-bit PIC micro controller assembly. Common Lisp is the compiler language.
 
+
+<b>[fukamachi/.emacs.d](https://github.com/fukamachi/.emacs.d)</b><br>
+This is an example of configuration files for Emacs program from fukamachi [fukamachi](https://github.com/fukamachi).
