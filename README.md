@@ -38,3 +38,7 @@ A native compiler for 8-bit PIC micro controllers written in Common Lisp. The ho
 
 <b>[fukamachi/.emacs.d](https://github.com/fukamachi/.emacs.d)</b><br>
 This is an example of configuration files for Emacs program from fukamachi [fukamachi](https://github.com/fukamachi).
+
+
+<b>[Yalo](https://github.com/whily/yalo)</b><br>
+Yalo is a Lisp OS running on bare metal x86-64 hardware. The system programming language is Ink, a new Lisp dialect which combines the elegance of Scheme and powerfulness of Common Lisp.
