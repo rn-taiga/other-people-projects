@@ -45,5 +45,5 @@ Yalo is a Lisp OS running on bare metal x86-64 hardware. The system programming 
 
 
 <b>[Movitz](https://common-lisp.net/project/movitz/movitz.html)</b><br>
-Movitz is a Common Lisp OS development platform, writen by [Frode Vatvedt Fjeld](frodef@acm.org) in 2004/07/08.
+Movitz is a Common Lisp OS development platform, writen by Frode Vatvedt Fjeld <frodef@acm.org> in 2004.<br>
 Fork on githab is [here](https://github.com/dym/movitz) and [here](https://github.com/grepz/Movitz).
