@@ -56,3 +56,6 @@ ASDF-linguist is a set of extensions to the ASDF build system for Common Lisp fo
 
 <b>[sbcl-compiler-memo](https://github.com/guicho271828/sbcl-wiki/wiki)</b><br>
 Memos for understanding the internals of SBCL's native compiler.
+
+<b>[scsh](https://scsh.net/about/about.html)</b><br>
+Implementation of UNIX scripts on Scheme.
