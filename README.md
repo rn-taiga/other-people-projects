@@ -59,3 +59,6 @@ Memos for understanding the internals of SBCL's native compiler.
 
 <b>[scsh](https://scsh.net/about/about.html)</b><br>
 Implementation of UNIX scripts on Scheme.
+
+<b>[simulate-avr-cpu](https://github.com/tobbelobb/simulate-avr-cpu)</b><br>
+This code is meant to simulate the state of an AVR microprocessor like the ATmega 328 or similar.
