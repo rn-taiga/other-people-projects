@@ -62,3 +62,6 @@ Implementation of UNIX scripts on Scheme.
 
 <b>[simulate-avr-cpu](https://github.com/tobbelobb/simulate-avr-cpu)</b><br>
 This code is meant to simulate the state of an AVR microprocessor like the ATmega 328 or similar.
+
+<b>[Staapl](http://zwizwa.be/staapl/staapl.html)</b><br>
+TStaapl is a macro assembler on steroids for PIC18F microcontrollers. It can be used for writing firmware optimized for size. It goes where C can’t go, and where assembler would be too complicated. It is based on Racket Scheme (code generator) and Forth (low-level language and machine model).
