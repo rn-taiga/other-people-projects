@@ -65,3 +65,6 @@ This code is meant to simulate the state of an AVR microprocessor like the ATmeg
 
 <b>[Staapl](http://zwizwa.be/staapl/staapl.html)</b><br>
 Staapl is a macro assembler on steroids for PIC18F microcontrollers. It can be used for writing firmware optimized for size. It goes where C can’t go, and where assembler would be too complicated. It is based on Racket Scheme (code generator) and Forth (low-level language and machine model).
+
+<b>[Armpit Scheme](http://armpit.sourceforge.net)</b><br>
+Armpit Scheme is an interpreter for the Scheme language (lexically-scoped dialect of Lisp) that runs on RISC microcontrollers with ARM core.
